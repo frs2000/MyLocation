@@ -1,4 +1,5 @@
-This ...
+My Location - it is core for application similar Google Map ...
 
-Will get data from the mapquest.com
+We get data from the mapquest.com
 Documentation for API https://developer.mapquest.com/documentation/
+
