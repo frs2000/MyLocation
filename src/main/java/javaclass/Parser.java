@@ -1,21 +1,22 @@
 package javaclass;
 
 //https://github.com/nudlesoup/Little-to-Middle-Indian-Conversion-of-UUID/commit/d0b34e2bc5ed1dbc9f2c1ac8f4466cb8ebddec22
+
 import org.apache.log4j.Logger;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.io.InputStreamReader;
-import java.net.URL;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.URL;
 import java.nio.charset.Charset;
 
 
 public class Parser {
-    private String key = "SbahmMbplizqQrhsuAmGlB1EI2iVZv0L";
+    private String key = "SbahmMb..........Zv0L";
     private String myURL;
     private String jsStr;
     private static final Logger log = Logger.getLogger(Parser.class);
